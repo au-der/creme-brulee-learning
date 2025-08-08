@@ -18,6 +18,7 @@ ______________________________________________________________________
 
 ## What is the solution and how is it implemented?
 
+All RH employees must complete annual security awareness training that is tracked and maintained in the RH Learning System. 
 <!-- For implementation status enter one of: implemented, partial, planned, alternative, not-applicable -->
 
 <!-- Note that the list of rules under ### Rules: is read-only and changes will not be captured after assembly to JSON -->
@@ -28,6 +29,6 @@ ______________________________________________________________________
 
   - rule-pcidss_4_12-6.3.1
 
-### Implementation Status: planned
+### Implementation Status: implemented
 
 ______________________________________________________________________
